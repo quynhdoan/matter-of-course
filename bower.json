@@ -1,0 +1,21 @@
+{
+  "name": "matter_course",
+  "version": "0.0.0",
+  "homepage": "https://github.com/quynhdoan/matter-of-course",
+  "authors": [
+    "Quynh Doan <quynhddoan@gmail.com>"
+  ],
+  "description": "Learning courses tracker",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "toastr": "~2.0.1",
+    "angular-resource": "~1.2.16",
+    "angular-route": "~1.2.16",
+    "bootstrap-css": "~3.1.1"
+  }
+}
